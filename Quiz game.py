@@ -38,3 +38,6 @@ else:
 
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 4) * 100) + "%.")
+
+""" Add your questions as required and make fun out of it.
+Even try to make it interesting with more complex questions"""
